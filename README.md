@@ -6,13 +6,13 @@ Rhythm Fighters es un nuevo concepto de juego que trata de unificar un juego de 
 El juego como está actualmente consta de dos personajes, uno controlado por el jugador y otro por la IA que luchan en un escenario siguiendo el ritmo de la música. Entre sus particularidades se encuentra que toda acción realizada por el jugador debe ser realizada al ritmo de la música (barra de ritmo), y que su eficacia dependerá de la precisión del toque, haciendo el combate simultaneo pero manteniendo el jugador al límite constantemente.
 
 Ambos jugadores constan de 8 movimientos posibles:
-    - Movimiento:    
-      - Derecha - Izquierda
-      - Salto - Descenso
-      - Salto Izquierda - Salto Derecha
-    - Lucha:
-        - Atacar
-        - Defender
+- Movimiento:    
+    - Derecha - Izquierda
+    - Salto - Descenso
+    - Salto Izquierda - Salto Derecha
+- Lucha:
+    - Atacar
+    - Defender
 
 En el combate el jugador si defiende bloqueará todo el daño, sin embargo si ataca el daño será su daño menos el daño del oponente, recibiendo daño aquel que fue menos preciso en el ritmo. Si los jugadores no se encuentran lo bastante cerca el ataque resultará inservible, como es lógico, ya que no golpeará.
 
