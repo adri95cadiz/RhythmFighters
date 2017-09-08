@@ -74,14 +74,3 @@ Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-Content/StarterContent/
-
-Content/2DSideScroller/Materials/PrototypingSpriteMaterial\.uasset
-
-Content/2DSideScroller/Sprites/RunFrames/
-
-Content/2DSideScroller/Sprites/IdleFrames/
-
-Content/2DSideScroller/Sprites/RunningAnimation\.uasset
-
-Content/2DSideScroller/Sprites/
